@@ -58,7 +58,7 @@ daily-grind-server/
 
 ## Project Links
 - [GitHub Code](https://github.com/BulutHamali/The-Daily-Grind)
-- [Live Demo](https://the-daily-grind-lnpd.onrender.com/#menu)
+- [Live Demo](https://the-daily-grind-lnpd.onrender.com/#menu) (Note: This demo is hosted on Render’s free tier and may take a few seconds to load if inactive.)
 
 ## License
 This project is developed for educational and demonstration purposes only.
